@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:eshop" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f21194d6-4da2-4ac1-95e9-d28f0d95cba4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/eshop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/eshop_member.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../db/eshop_member.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-auth/src/main/java/com/curise/eshop/auth/config/oauth/AuthorizationServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/eshop-auth/src/main/java/com/curise/eshop/auth/config/oauth/AuthorizationServerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-auth/src/main/java/com/curise/eshop/auth/config/oauth/ResourceServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/eshop-auth/src/main/java/com/curise/eshop/auth/config/oauth/ResourceServerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-auth/src/main/java/com/curise/eshop/auth/config/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/eshop-auth/src/main/java/com/curise/eshop/auth/config/security/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-auth/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eshop-auth/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-auth/target/classes/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-auth/target/classes/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-auth/target/classes/application-test.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-auth/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-auth/target/classes/com/curise/eshop/auth/AuthApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-auth/target/classes/com/curise/eshop/auth/config/druid/DruidConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-auth/target/classes/com/curise/eshop/auth/config/error/MssWebResponseExceptionTranslator$ForbiddenException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-auth/target/classes/com/curise/eshop/auth/config/error/MssWebResponseExceptionTranslator$MethodNotAllowed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-auth/target/classes/com/curise/eshop/auth/config/error/MssWebResponseExceptionTranslator$ServerErrorException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-auth/target/classes/com/curise/eshop/auth/config/error/MssWebResponseExceptionTranslator$UnauthorizedException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-auth/target/classes/com/curise/eshop/auth/config/error/MssWebResponseExceptionTranslator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-auth/target/classes/com/curise/eshop/auth/config/oauth/AuthorizationServerConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-auth/target/classes/com/curise/eshop/auth/config/oauth/RedisTokenStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-auth/target/classes/com/curise/eshop/auth/config/oauth/ResourceServerConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-auth/target/classes/com/curise/eshop/auth/config/security/NoEncryptPasswordEncoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-auth/target/classes/com/curise/eshop/auth/config/security/SecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-auth/target/classes/com/curise/eshop/auth/controller/MemberController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-auth/target/classes/com/curise/eshop/auth/dao/MemberDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-auth/target/classes/com/curise/eshop/auth/dao/PermissionDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-auth/target/classes/com/curise/eshop/auth/dao/RoleDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-auth/target/classes/com/curise/eshop/auth/service/MyUserDetailService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-auth/target/classes/mybatis/MemberMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-auth/target/classes/mybatis/PermissionMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-auth/target/classes/mybatis/RoleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-common/target/classes/com/curise/eshop/common/entity/Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-common/target/classes/com/curise/eshop/common/entity/Permission.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-common/target/classes/com/curise/eshop/common/entity/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-common/target/classes/com/curise/eshop/common/entity/Role.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-common/target/classes/com/curise/eshop/common/enumeration/ResultCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-gateway/target/classes/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-gateway/target/classes/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-gateway/target/classes/application-test.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-gateway/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-gateway/target/classes/com/curise/eshop/ZuulApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-gateway/target/classes/com/curise/eshop/gateway/ZuulApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-gateway/target/classes/com/curise/eshop/gateway/config/SecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-member/target/classes/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-member/target/classes/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-member/target/classes/application-test.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-member/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-member/target/classes/com/curise/eshop/MemberApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-member/target/classes/com/curise/eshop/controller/MemberController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-member/target/classes/com/curise/eshop/member/MemberApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-member/target/classes/com/curise/eshop/member/config/ResourceServerConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-member/target/classes/com/curise/eshop/member/controller/MemberController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-server/target/classes/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-server/target/classes/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-server/target/classes/application-test.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-server/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-server/target/classes/com/curise/eshop/ServerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-server/target/classes/com/curise/eshop/server/ServerCenterApplication.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h2Eyl7CNwJLxrGGF36dBiFB6jo" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Ali-Check</id>
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJava</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Control flow issuesGroovy</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>IconsUsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>InternationalizationLintAndroid</id>
+          </State>
+          <State>
+            <id>JUnitJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 9Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level issuesJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavadocJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Other problemsKotlin</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Resource managementJava</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>SecurityLintAndroid</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>UI Form</id>
+          </State>
+          <State>
+            <id>UsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringJavaConstructorAutowiringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545035216699" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/eshop-common/src/main/java/com/curise/eshop/common" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.30898875" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\myIdeaWorkspace\eshop\eshop-member\src\main\resources\mybatis" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.curise.eshop.auth.config.oauth" />
+      <recent name="com.curise.eshop.server" />
+      <recent name="com.curise.eshop.member" />
+      <recent name="com.curise.eshop.gateway" />
+      <recent name="com.curise.eshop.auth" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.curise.eshop.gateway.config" />
+      <recent name="com.curise.eshop.auth.dao" />
+      <recent name="com.curise.eshop.common.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myIdeaWorkspace\eshop\eshop-auth\src\main\resources\mybatis" />
+      <recent name="D:\myIdeaWorkspace\eshop\eshop-common\src\main\java\com\curise\eshop\common\entity" />
+      <recent name="D:\myIdeaWorkspace\eshop\eshop-auth\src\main\resources" />
+      <recent name="D:\myIdeaWorkspace\eshop-parent\eshop-gateway\src\main\resources" />
+      <recent name="D:\myIdeaWorkspace\eshop-parent\eshop-member\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ServerCenterApplication">
+    <configuration name="AuthApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.curise.eshop.auth.AuthApplication" />
+      <module name="eshop-auth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.curise.eshop.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.curise.eshop.member.MemberApplication" />
+      <module name="eshop-member" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.curise.eshop.member.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerCenterApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.curise.eshop.server.ServerCenterApplication" />
+      <module name="eshop-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.curise.eshop.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.curise.eshop.gateway.ZuulApplication" />
+      <module name="eshop-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.curise.eshop.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eshop-auth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.curise.eshop.auth.AuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eshop-email" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.curise.eshop.email.EmailApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eshop-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.curise.eshop.server.ServerCenterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eshop-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.curise.eshop.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.curise.eshop.gateway.ZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AuthApplication" />
+        <item itemvalue="Application.ServerCenterApplication" />
+        <item itemvalue="Application.MemberApplication" />
+        <item itemvalue="Application.ZuulApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\admin\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f21194d6-4da2-4ac1-95e9-d28f0d95cba4" name="Default Changelist" comment="" />
+      <created>1544590301429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544590301429</updated>
+      <workItem from="1544590306210" duration="6400000" />
+      <workItem from="1544666136882" duration="1278000" />
+      <workItem from="1544668755057" duration="18807000" />
+      <workItem from="1544748117895" duration="2670000" />
+      <workItem from="1545007357964" duration="13387000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="42542000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1599201231906">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1599201231906" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1599201082570">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599201082570" />
+    <state x="579" y="313" key="Github.CreateGistDialog" timestamp="1599467589258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="579" y="313" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1599467589258" />
+    <state width="1493" height="191" key="GridCell.Tab.0.bottom" timestamp="1599529861809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599529861809" />
+    <state width="1493" height="191" key="GridCell.Tab.0.center" timestamp="1599529861809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599529861809" />
+    <state width="1493" height="191" key="GridCell.Tab.0.left" timestamp="1599529861809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599529861809" />
+    <state width="1493" height="191" key="GridCell.Tab.0.right" timestamp="1599529861809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599529861809" />
+    <state x="270" y="57" key="SettingsEditor" timestamp="1599201084092">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599201084092" />
+    <state x="490" y="154" width="540" height="524" key="StructurePopup" timestamp="1599468661134">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="154" width="540" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1599468661134" />
+    <state x="468" y="144" width="600" height="536" key="find.popup" timestamp="1599201558696">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="468" y="144" width="600" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1599201558696" />
+  </component>
+</project>
